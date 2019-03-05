@@ -36,11 +36,12 @@ https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/
 ## Memorizable passwords that are secure
 
 Troy Hunt is big on keeping all your passwords in a program which is
-unlocked by a master password. I'm not a big fan of that as I see it
-as putting too many eggs in one basket.
+unlocked by a master password. I'm not a fan of that as I see it as
+putting too many eggs in one basket (and then painting a bullseye on
+the basket for ne'er-do-wells to aim for) .
 
 I prefer a tiered approach: strong passwords and [FIDO2 hardware
-keys](solokey.com) for banks, shopping, and e-mail. A medium password
+keys](https://solokeys.com) for banks, shopping, and e-mail. A medium password
 for various social media accounts. A weak password for the zillions of
 sites that insist I give them a password, although I actively distrust
 them.
@@ -52,5 +53,3 @@ allows you to use a corpus of documents with words salient to you
 rather than a generic dictionary. (The _bag_ _fifty_ _rose_ _standing_
 example above is a password created using Andrew Lang's Fairy Books as
 the source of words.) 
-
-
