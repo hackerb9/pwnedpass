@@ -10,6 +10,8 @@ Just download the `pwnedpass` script, chmod it, and run it.
     wget https://github.com/hackerb9/pwnedpass/raw/master/pwnedpass
     chmod +x pwnedpass
     ./pwnedpass MyPassword1
+    
+Don't want your password saved in your .history file? No problem. Just run `./pwnedpass` without any arguments and it'll prompt your for the password to check. 
 
 ## What is pwnedpass?
 
